@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there !
 
+- 🔭 I’m currently working on finishing my PhD at the University of Florence and at the Ecole Normale Superieure of Lyon
+[I'm an inline-style link](https://www.google.com)
 <!--
 **LorenzoNiccoli/LorenzoNiccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
