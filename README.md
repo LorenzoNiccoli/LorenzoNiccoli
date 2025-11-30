@@ -1,8 +1,7 @@
 ### Hi there !
 
-- 🔭 I’m currently working on finishing my PhD at the University of Florence and at the Ecole Normale Superieure of Lyon
-- 📫 How to reach me: 
--    lorenzo.niccoli@unifi.it 
+- 🔭 Postdoc at ETH Zurich
+- 📫 How to reach me:  lorenzo.niccoli@phys.chem.ethz.ch
                           
 <!--
 **LorenzoNiccoli/LorenzoNiccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
